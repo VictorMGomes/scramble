@@ -1,4 +1,4 @@
-# Victormgomes/Scramble
+# Scramble Extensions
 
 ## Useful magic extensions for dedoc/scramble package
 
@@ -17,7 +17,7 @@ To automatically add a Tenant header for Tenant routes
 ### Installation
 
 ```bash
-composer require victormgomes/scramble
+composer require victormgomes/scramble-extensions
 ```
 
 ### Usage
