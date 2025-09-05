@@ -34,6 +34,10 @@ Register any extension provided in the scramble config file
 ...
 ```
 
+The result of registering these extensions above will look like:
+
+![Alt text](media/images/01.png)
+
 ### Many others extensions coming soon
 
 Thanks!
