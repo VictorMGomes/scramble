@@ -12,7 +12,7 @@ use Dedoc\Scramble\Support\Generator\Types\StringType;
 use Dedoc\Scramble\Support\RouteInfo;
 use Illuminate\Support\Str;
 
-class AddAuthenticationHeader extends OperationExtension
+class AddAuthorizationHeader extends OperationExtension
 {
     public function handle(Operation $operation, RouteInfo $routeInfo): void
     {
